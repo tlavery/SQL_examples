@@ -1,6 +1,6 @@
 # SQL_examples
 
-Three examples of SQL code designed to extract information from a large relational database in a very specific manner.
+Two examples of SQL code designed to extract information from a large relational database in a very specific manner.
 
 A1_Index_Crime_Reporting.sql : Law enforcement agencies throughout the United States are required to submit crime totals to the Federal Bureau of Investigation, for eight key crime types, and according to very specific reporting rules. 
 
